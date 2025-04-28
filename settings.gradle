@@ -1,0 +1,4 @@
+rootProject.name = 'metastore'
+
+include ':metaclient'
+include ':metacache'
