@@ -1,7 +1,7 @@
 # MetaStore - Distributed Caching and Data Management System
 
 <p align="center">
-  <img src="images/MetaStore.png" alt="MetaStore Architecture" width="400"/>
+  <img src="images/Metastore.png" alt="MetaStore Architecture" width="400"/>
 </p>
 
 MetaStore is a high-performance distributed system for metadata management, combining Redis caching and PostgreSQL persistence.
@@ -105,7 +105,7 @@ The system follows a microservices architecture with the following components:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/avisheku/metastore.git
 cd metastore
 ```
 
